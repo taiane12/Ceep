@@ -1,0 +1,15 @@
+img{
+    width :10% ;
+}
+p{
+   width:  30% ;
+}
+.roxo {
+    color : purple;
+}
+body{
+    background-image: url(./Downloads/oceano.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
